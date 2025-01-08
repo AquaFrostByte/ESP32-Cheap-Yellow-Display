@@ -31,3 +31,6 @@ The ESP32 offers two usable hardware SPI buses, but on the CYD each of display, 
 
 # Cannot upload
 - On Ubuntu and flavors disable or uninstall service `brltty` and make sure user is in group `dialout`
+
+# Cannot compile
+- Install `pyserial` if not already installed
